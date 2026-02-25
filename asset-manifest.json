@@ -1,25 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3f67261.css",
-    "main.js": "/static/js/main.84ef5284.js",
-    "static/js/453.3c22b29e.chunk.js": "/static/js/453.3c22b29e.chunk.js",
-    "static/media/thk1.png": "/static/media/thk1.18c0c40990d79ca793b9.png",
-    "static/media/notice01.png": "/static/media/notice01.4b80f19988ad4c35f768.png",
+    "main.css": "/static/css/main.7b40da26.css",
+    "main.js": "/static/js/main.98fb7141.js",
+    "static/js/453.fd41d4bb.chunk.js": "/static/js/453.fd41d4bb.chunk.js",
     "static/media/myflix01.webp": "/static/media/myflix01.c7be5b89c38054ec5e6b.webp",
     "static/media/myflix03.webp": "/static/media/myflix03.89c1706d70f2782a1672.webp",
     "static/media/myflix02.webp": "/static/media/myflix02.3355b6f7e2d8ce518aa7.webp",
-    "static/media/notice02.png": "/static/media/notice02.ca74fd4270a3e27ae5b6.png",
-    "static/media/thk2.png": "/static/media/thk2.cf07ee90ae4ea4291bb9.png",
+    "static/media/weather1.webp": "/static/media/weather1.64636272c03c900f016c.webp",
     "static/media/moop2.png": "/static/media/moop2.f26a5548e6b8a62b097d.png",
     "static/media/moop1.png": "/static/media/moop1.a9b7d682f33de18762b7.png",
     "static/media/portfolio02.webp": "/static/media/portfolio02.00387747b573b5ab7e6a.webp",
-    "static/media/ld2.PNG": "/static/media/ld2.ecd8f37de20288e7bdca.PNG",
+    "static/media/weather2.webp": "/static/media/weather2.0e3569ce85620c963485.webp",
     "static/media/moop3.png": "/static/media/moop3.98803f74e1f3d0eca401.png",
-    "static/media/ld3.PNG": "/static/media/ld3.26e99e94e24c1d9c6692.PNG",
     "static/media/portfolio03.webp": "/static/media/portfolio03.59671f9466b6ee04fbee.webp",
     "static/media/openquiz1.webp": "/static/media/openquiz1.8c09a7446e21f1066683.webp",
-    "static/media/notice03.png": "/static/media/notice03.c77227df7227e8ae13c0.png",
-    "static/media/ld1.PNG": "/static/media/ld1.cc3712765ce5201041b5.PNG",
     "static/media/openquiz2.webp": "/static/media/openquiz2.2173ad6df1274742826a.webp",
     "static/media/openquiz3.webp": "/static/media/openquiz3.c80cf742b70d2d094c90.webp",
     "static/media/portfolio01.webp": "/static/media/portfolio01.6693a5d9f768b535dc9b.webp",
@@ -28,12 +22,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.c3f67261.css.map": "/static/css/main.c3f67261.css.map",
-    "main.84ef5284.js.map": "/static/js/main.84ef5284.js.map",
-    "453.3c22b29e.chunk.js.map": "/static/js/453.3c22b29e.chunk.js.map"
+    "main.7b40da26.css.map": "/static/css/main.7b40da26.css.map",
+    "main.98fb7141.js.map": "/static/js/main.98fb7141.js.map",
+    "453.fd41d4bb.chunk.js.map": "/static/js/453.fd41d4bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3f67261.css",
-    "static/js/main.84ef5284.js"
+    "static/css/main.7b40da26.css",
+    "static/js/main.98fb7141.js"
   ]
 }
