@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.71272369.css",
-    "main.js": "/static/js/main.8df7727b.js",
+    "main.css": "/static/css/main.675a4c52.css",
+    "main.js": "/static/js/main.e6060a36.js",
     "static/js/453.fd41d4bb.chunk.js": "/static/js/453.fd41d4bb.chunk.js",
     "static/media/myflix01.webp": "/static/media/myflix01.c7be5b89c38054ec5e6b.webp",
     "static/media/myflix03.webp": "/static/media/myflix03.89c1706d70f2782a1672.webp",
@@ -22,12 +22,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.71272369.css.map": "/static/css/main.71272369.css.map",
-    "main.8df7727b.js.map": "/static/js/main.8df7727b.js.map",
+    "main.675a4c52.css.map": "/static/css/main.675a4c52.css.map",
+    "main.e6060a36.js.map": "/static/js/main.e6060a36.js.map",
     "453.fd41d4bb.chunk.js.map": "/static/js/453.fd41d4bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71272369.css",
-    "static/js/main.8df7727b.js"
+    "static/css/main.675a4c52.css",
+    "static/js/main.e6060a36.js"
   ]
 }
