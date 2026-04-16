@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5278d500.css",
-    "main.js": "/static/js/main.4571e500.js",
+    "main.js": "/static/js/main.f6414c0c.js",
     "static/js/453.3c22b29e.chunk.js": "/static/js/453.3c22b29e.chunk.js",
     "static/media/myflix01.webp": "/static/media/myflix01.c7be5b89c38054ec5e6b.webp",
     "static/media/myflix03.webp": "/static/media/myflix03.89c1706d70f2782a1672.webp",
@@ -16,6 +16,9 @@
     "static/media/weather2.webp": "/static/media/weather2.0e3569ce85620c963485.webp",
     "static/media/scrapicker2.webp": "/static/media/scrapicker2.901a05489f6581d72a56.webp",
     "static/media/ytb01.webp": "/static/media/ytb01.c0bdde1471d1c53d847e.webp",
+    "static/media/fireview1.webp": "/static/media/fireview1.896d1da52f74cde906c4.webp",
+    "static/media/fireview3.webp": "/static/media/fireview3.3ee9a6fe804360ba2360.webp",
+    "static/media/fireview2.webp": "/static/media/fireview2.780c19acd7985c8e1ca3.webp",
     "static/media/ytb02.webp": "/static/media/ytb02.b004a6b45cb8b8c20797.webp",
     "static/media/openquiz1.webp": "/static/media/openquiz1.eb91b0671b9ffe7e7acb.webp",
     "static/media/scrapicker1.webp": "/static/media/scrapicker1.d432091be537c2101722.webp",
@@ -32,11 +35,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.5278d500.css.map": "/static/css/main.5278d500.css.map",
-    "main.4571e500.js.map": "/static/js/main.4571e500.js.map",
+    "main.f6414c0c.js.map": "/static/js/main.f6414c0c.js.map",
     "453.3c22b29e.chunk.js.map": "/static/js/453.3c22b29e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5278d500.css",
-    "static/js/main.4571e500.js"
+    "static/js/main.f6414c0c.js"
   ]
 }
